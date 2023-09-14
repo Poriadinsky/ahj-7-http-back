@@ -1,0 +1,33 @@
+{
+  "name": "ahj-http-7-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poriadinsky/ahj-7-http-back.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poriadinsky/ahj-7-http-back/issues"
+  },
+  "homepage": "https://github.com/Poriadinsky/ahj-7-http-back#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.6",
+    "@babel/node": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "eslint": "^8.49.0"
+  }
+}
